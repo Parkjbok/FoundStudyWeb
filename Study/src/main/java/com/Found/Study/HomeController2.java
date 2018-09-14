@@ -28,7 +28,9 @@ public class HomeController {
 		
 		Date date = new Date();
 		DateFormat dateFormat = DateFormat.getDateTimeInstance(DateFormat.LONG, DateFormat.LONG, locale);
-		System.out.println("git test ");
+		System.out.println("123");
+		System.out.println("123");
+		System.out.println("123");
 		
 		
 		String formattedDate = dateFormat.format(date);
